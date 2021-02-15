@@ -11,6 +11,7 @@
 
   @include breakpoint-up(large){
     .navbar {
+      max-width: none;
       width: 100%;
       top: 0;
       left: 0;

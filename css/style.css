@@ -299,6 +299,7 @@ button:hover::before,
 
 @media (min-width: 64em) {
   .header .navbar {
+    max-width: none;
     width: 100%;
     top: 0;
     left: 0;
